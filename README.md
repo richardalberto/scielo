@@ -13,7 +13,8 @@ This plugin is licensed under the GNU General Public License v2. See the file CO
 
 # System Requirements
 
-Requires prior installation of Articles Extras Plugin : You can get it here https://github.com/damnpoet/ojs-articlesextras
+Open Journal System > 2.4.0
+Articles Extras Plugin : You can get it here https://github.com/damnpoet/ojs-articlesextras
 
 
 
@@ -35,7 +36,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/da
 
 ## Author
 
-**Richard González**
+**Richard González Alberto**
 
 + [http://twitter.com/damnpoet](http://twitter.com/damnpoet)
 + [http://github.com/damnpoet](http://github.com/damnpoet)
