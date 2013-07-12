@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../locale/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Localization strings for the es_ES (Español (España)) locale.
+  *
+  -->
+ 
+<locale name="es_ES" full_name="Español España">
+	<message key="plugins.importexport.scielo.displayName">Plugin para exportación de números a Scielo</message>
+	<message key="plugins.importexport.scielo.description">Este plugin devuelve los archivos marcados para su exportación a Scielo</message>
+    <message key="plugins.importexport.scielo.articlesExtrasRequired">Este plugin devuelve los archivos marcados para su exportación a Scielo.</message>
+
+	<message key="plugins.importexport.scielo.selectIssue.short">Seleccionar número</message>
+	<message key="plugins.importexport.scielo.selectIssue.long">Seleccione un número para exportar.</message>
+	
+	<message key="plugins.importexport.scielo.settings">Configuración</message>
+	<message key="plugins.importexport.scielo.settings.description">Configuración de datos suplementarios de la revista requeridos por el plugin de exportación de datos a Scielo.</message>
+	
+	<message key="plugins.importexport.scielo.generalSettings">Generales</message>
+	<message key="plugins.importexport.scielo.contact">Contacto</message>
+	
+	<message key="plugins.importexport.scielo.settings.ccode">Código del centro [ccode]</message>
+	<message key="plugins.importexport.scielo.settings.ccode.description">Indica el código del centro procesador del artículo, es un atributo obligatorio.</message>
+	<message key="plugins.importexport.scielo.settings.acronym">Acronimo de la Revista.</message>
+	<message key="plugins.importexport.scielo.settings.acronym.description">Acronimo utilizado por la revista para su inserción en Scielo.</message>
+	<message key="plugins.importexport.scielo.settings.otherLanguages">Otros lenguages</message>
+	<message key="plugins.importexport.scielo.settings.otherLanguages.description">Lenguages complementarios utilizados por la revista (Ej: "en_US, fr_CA"). Tenga en cuenta que deben existir los registros para cada lenguage complementario que utilize, de lo contrario la exportación de los datos será erronea.</message>
+	<message key="plugins.importexport.scielo.settings.pagesFormat">Formato de Paginas</message>
+	<message key="plugins.importexport.scielo.settings.pagesFormat.description">Indica el formato en el que se indican las paginas en la revista actual (Ej: "#-#"). El formato nunca debe ser mas complejo que 3 digitos y no debe contener espacios.</message>
+	<message key="plugins.importexport.scielo.settings.city">Ciudad</message>
+	<message key="plugins.importexport.scielo.settings.city.description">Ciudad donde se edita la revista.</message>
+	<message key="plugins.importexport.scielo.settings.country">Pais</message>
+	<message key="plugins.importexport.scielo.settings.country.description">Pais donde se edita la revista.</message>
+	<message key="plugins.importexport.scielo.settings.zipcode">Codigo Postal</message>
+	<message key="plugins.importexport.scielo.settings.zipcode.description">Codigo postal de la localidad donde se edita la revista.</message>
+	<message key="plugins.importexport.scielo.settings.institution">Nombre de la Institución</message>
+	<message key="plugins.importexport.scielo.settings.institution.description">Nombre de la Institución que auspicia la revista.</message>
+	<message key="plugins.importexport.scielo.settings.institutionAddress">Dirección de la Institución</message>
+	<message key="plugins.importexport.scielo.settings.institutionAddress.description">Dirección de la Institución que auspicia la revista.</message>
+	
+	
+	
+	<message key="plugins.importexport.scielo.settings.idsuppvol">Identificador de volumen suplementario.</message>
+	<message key="plugins.importexport.scielo.settings.idsuppnum">Identificador de número suplementario.</message>
+	<message key="plugins.importexport.scielo.settings.idspecnum">Identificador de Número Especial.</message>
+	<message key="plugins.importexport.scielo.settings.idcompftype">Identificador de "Tipo de Archivo" complementario.</message>
+	<message key="plugins.importexport.scielo.settings.table">Tabla.</message>
+	<message key="plugins.importexport.scielo.settings.grafic">Grafico.</message>
+	<message key="plugins.importexport.scielo.settings.figure">Figura.</message>
+	<message key="plugins.importexport.scielo.settings.pii">Publisher Item Identifier.</message>
+
+	<message key="plugins.importexport.scielo.settings.suplement">Suplemento.</message>
+</locale>
